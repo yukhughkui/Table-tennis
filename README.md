@@ -1,2 +1,0 @@
-# Table-tennis
-small test
